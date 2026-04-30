@@ -1,8 +1,8 @@
 # Hi, I'm Bishnu Pada Chanda 👋
 
-**Frontend Engineer | Browser Extension Specialist | React • TypeScript • React Native**
+**Fullstack Engineer  |  Browser Extensions  |  React & TypeScript | React Native | NodeJS | NestJS**
 
-I'm a frontend engineer with 10+ years of experience, specializing in **browser extension development** — one of the few engineers with deep production experience across Manifest V3, Plasmo, and multi-browser (Chrome, Firefox, Edge, Safari) extension architecture.
+Fullstack Engineer with 10+ years of experience building web applications, browser extensions, and backend systems. Deep expertise in React, TypeScript, and Node.js on the frontend and backend, with rare specialization in browser extension development across Manifest V3, Plasmo, and multi-browser (Chrome, Firefox, Edge, Safari) architectures. Proven track record shipping fullstack products — from designing APIs and backend services to building high-performance frontends used by 60,000+ users. Delivered 50% performance gains through optimized data processing pipelines and led cross-functional teams of 12 engineers.
 
 Currently pursuing an **MSc in Sustainable Digitalisation** at KTH Royal Institute of Technology, Stockholm.
 
