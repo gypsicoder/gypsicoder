@@ -21,10 +21,11 @@ Currently pursuing an **MSc in Sustainable Digitalisation** at KTH Royal Institu
 
 ## 🛠 What I Work With
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS, shadcn/ui  
-**Extensions:** Manifest V3, Plasmo Framework, Chrome APIs, WebExtensions API, Cross-browser compat  
+**Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Redux, HTML5, CSS3, TailwindCSS, shadcn/ui, Design Systems  
+**Backend:** Node.js, NestJS, Express, REST APIs, Firebase (Firestore, Auth, Cloud Functions), Database Design, PostgreSQL, MongoDB, MySQL  
+**Browser Extensions:** Manifest V3, Plasmo Framework, Chrome APIs, WebExtensions API, Cross-browser (Chrome, Firefox, Edge, Safari), Service Workers  
 **Mobile:** React Native, iOS (Swift, Objective-C)  
-**Tools:** Git, REST APIs, CI/CD, Jira, Agile/Scrum
+**Tools & Practices:** Git, CI/CD Pipelines, Agile/Scrum, Jira, Remote Collaboration  
 
 ---
 
