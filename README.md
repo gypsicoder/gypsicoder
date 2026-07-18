@@ -15,6 +15,7 @@ Currently pursuing an **MSc in Sustainable Digitalisation** at KTH Royal Institu
 | [Powtoon Capture](https://github.com/gypsicoder/powtoon-capture-showcase) | Screen & webcam recording extension | 50,000+ | React, Chrome APIs, JavaScript, TypeScript |
 | [SERP Sonar](https://github.com/gypsicoder/serp-sonar-showcase) | Advanced Google SERP analysis tool for digital marketers | 1000+ | React, TypeScript, Manifest V3, Chrome APIs |
 | [GymVale](https://github.com/gypsicoder/gymvale-showcase) | Cross-platform gym management mobile app | 60K+ members | React Native, Redux, REST APIs |
+| [Auto Intelligence](https://github.com/gypsicoder/auto-intelligence-chrome-extension-showcase) | AI-Powered Chrome Extension for Vehicle Profitability Analysis | ~700 | React, Plasmo, TypeScript, Manifest V3, Chrome APIs |
 | [Dashboard App](https://github.com/gypsicoder/dashboard-nextjs-shadcn) | Admin dashboard with charts, payments table, dark mode | [Live Demo](https://dashboard-nextjs-shadcn-navy.vercel.app/) | Next.js, TypeScript, shadcn/ui, TailwindCSS |
 | [Demopedia](https://github.com/gypsicoder/demopedia) | Demo agency portfolio site with dark/light mode | [Live Demo](https://demopedia.netlify.app/) | Next.js 13, TypeScript, TailwindCSS |
 
