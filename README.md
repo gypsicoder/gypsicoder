@@ -13,7 +13,7 @@ Currently pursuing an **MSc in Sustainable Digitalisation** at KTH Royal Institu
 | Extension | Description | Users | Stack |
 |-----------|-------------|-------|-------|
 | [Powtoon Capture](https://chromewebstore.google.com/detail/powtoon-capture-screen-an/hgphbmgpkindhnldhjafhfflhjodpfmn) | Screen & webcam recording extension | 60,000+ | React, Chrome APIs, JavaScript, TypeScript |
-| [SERP Sonar](https://chromewebstore.google.com/detail/serp-sonar/ecbeldnffkbhfenankadmoednhpaakao) | Advanced Google SERP analysis tool for digital marketers | — | React, JavaScript, TypeScript, Manifest V3 |
+| [SERP Sonar](https://github.com/gypsicoder/serp-sonar-showcase) | Advanced Google SERP analysis tool for digital marketers | — | React, TypeScript, Manifest V3, Chrome APIs |
 
 > 💡 *I also built multiple extensions for freelance clients across Chrome, Firefox, Edge, and Safari.*
 
